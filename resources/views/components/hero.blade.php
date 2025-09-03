@@ -6,9 +6,10 @@
      {{-- dark filter --}}
 
      {{-- hero content --}}
-     <div class="relative flex flex-col items-center justify-center">
-         <h1 class="lg:text-6xl text-4xl font-bold text-white uppercase text-shadow-min text-center">Maritim Nusa Dewata</h1>
-         <h2 class="text-white lg:text-3xl">Hotel and Cruise Line College</h2>
+     <div class="relative flex flex-col items-center justify-center px-4">
+        <img class="size-24 mb-4 md:hidden" src="img/logo.webp" alt="">
+         <h1 class="lg:text-6xl text-3xl font-bold text-white uppercase text-shadow-min text-center">Maritim Nusa Dewata</h1>
+         <h2 class="text-white lg:text-3xl text-xl">Hotel and Cruise Line College</h2>
      </div>
      {{-- hero content --}}
 
