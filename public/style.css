@@ -1,0 +1,24 @@
+.gradient-btn {
+    background: #0020b0;
+    background: -webkit-linear-gradient(
+        90deg,
+        rgba(0, 32, 176, 1) 0%,
+        rgba(48, 132, 207, 1) 100%
+    );
+    background: -moz-linear-gradient(
+        90deg,
+        rgba(0, 32, 176, 1) 0%,
+        rgba(48, 132, 207, 1) 100%
+    );
+    background: linear-gradient(
+        90deg,
+        rgba(0, 32, 176, 1) 0%,
+        rgba(48, 132, 207, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0020B0", endColorstr="#3084CF", GradientType=1);
+}
+
+.text-shadow-min {
+    text-shadow: 1px 3px 7px rgba(0,0,0,0.41);
+
+}
